@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, I'm a student of Bachelor of Information Technology. I want to become a software engineer.
 
 <!--
 **CharlieArlott/CharlieArlott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
